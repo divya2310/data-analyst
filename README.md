@@ -1,2 +1,1 @@
-# data-analyst
-Analysis using ML 
+Sales Analysis of an E-commerce Platform using Power BI
